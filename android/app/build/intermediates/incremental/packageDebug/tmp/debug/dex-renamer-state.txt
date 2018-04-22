@@ -1,0 +1,4 @@
+#Fri Apr 20 15:33:11 BDT 2018
+base.0=/Users/sajib/AppsCode/Source/SAJIB/GitHub/react-native-app/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
